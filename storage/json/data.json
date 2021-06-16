@@ -1,0 +1,256 @@
+{
+	"result": [
+		{
+			"name": "Riana Utami",
+			"city": 1,
+			"gender": 2,
+			"education": 4,
+			"profession": 3
+		},
+		{
+			"name": "Rahmat",
+			"city": 1,
+			"gender": 2,
+			"education": 5,
+			"profession": 4
+		},
+		{
+			"name": "Kartika Sari",
+			"city": 1,
+			"gender": 2,
+			"education": 4,
+			"profession": 1
+		},
+		{
+			"name": "Murniati",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 1
+		},
+		{
+			"name": "Sri widayati",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 5
+		},
+		{
+			"name": "Rusdi Maryadi",
+			"city": 3,
+			"gender": 1,
+			"education": 4,
+			"profession": 3
+		},
+		{
+			"name": "Rudy",
+			"city": 3,
+			"gender": 1,
+			"education": 4,
+			"profession": 4
+		},
+		{
+			"name": "rahayu",
+			"city": 3,
+			"gender": 2,
+			"education": 5,
+			"profession": 3
+		},
+		{
+			"name": "tes",
+			"city": 2,
+			"gender": 2,
+			"education": 4,
+			"profession": 1
+		},
+		{
+			"name": "Murni susilowati",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 1
+		},
+		{
+			"name": "Toto",
+			"city": 3,
+			"gender": 1,
+			"education": 4,
+			"profession": 3
+		},
+		{
+			"name": "risa",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 1
+		},
+		{
+			"name": "Tri Suhartatik",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 5
+		},
+		{
+			"name": "elly",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 4
+		},
+		{
+			"name": "abel riswandi",
+			"city": 1,
+			"gender": 1,
+			"education": 4,
+			"profession": 4
+		},
+		{
+			"name": "Sunayah",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 1
+		},
+		{
+			"name": "nanik",
+			"city": 3,
+			"gender": 2,
+			"education": 6,
+			"profession": 5
+		},
+		{
+			"name": "Suwarso",
+			"city": 2,
+			"gender": 1,
+			"education": 4,
+			"profession": 2
+		},
+		{
+			"name": "Rachmadhani",
+			"city": 3,
+			"gender": 2,
+			"education": 6,
+			"profession": 3
+		},
+		{
+			"name": "rohmania",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 2
+		},
+		{
+			"name": "Marrya Septika",
+			"city": 1,
+			"gender": 2,
+			"education": 6,
+			"profession": 6
+		},
+		{
+			"name": "teti haryati",
+			"city": 2,
+			"gender": 2,
+			"education": 6,
+			"profession": 4
+		},
+		{
+			"name": "Deddy",
+			"city": 3,
+			"gender": 1,
+			"education": 7,
+			"profession": 6
+		},
+		{
+			"name": "Umi Alfiatul",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 1
+		},
+		{
+			"name": "yuli",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 1
+		},
+		{
+			"name": "Nancy",
+			"city": 3,
+			"gender": 2,
+			"education": 5,
+			"profession": 2
+		},
+		{
+			"name": "Nanik",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 6
+		},
+		{
+			"name": "Busiah",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 5
+		},
+		{
+			"name": "Herva",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 4
+		},
+		{
+			"name": "Sri Indrawati",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 4
+		},
+		{
+			"name": "Yanti Dwi jayanti",
+			"city": 1,
+			"gender": 2,
+			"education": 4,
+			"profession": 4
+		},
+		{
+			"name": "maria",
+			"city": 1,
+			"gender": 2,
+			"education": 5,
+			"profession": 6
+		},
+		{
+			"name": "umi",
+			"city": 3,
+			"gender": 2,
+			"education": 5,
+			"profession": 1
+		},
+		{
+			"name": "anik",
+			"city": 3,
+			"gender": 2,
+			"education": 4,
+			"profession": 3
+		},
+		{
+			"name": "ika Purwanti",
+			"city": 3,
+			"gender": 2,
+			"education": 6,
+			"profession": 1
+		},
+		{
+			"name": "Anisa Purwanti",
+			"city": 1,
+			"gender": 1,
+			"education": 4,
+			"profession": 2
+		}
+	]
+}

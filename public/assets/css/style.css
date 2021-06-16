@@ -1,0 +1,33 @@
+body {
+    font-family: Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    line-height: 1.5384616;
+    color: #333;
+    background-color: #f9f9f9;
+}
+h1 {
+    font-size: 2rem;
+}
+.bg-success-400 {
+    background-color: #66bb6a;
+}
+.bg-danger-400 {
+    background-color: #ef5350;
+}
+.icon-3x {
+    font-size: 52px;
+}
+.card-header {
+    background: none;
+    border-bottom: none;
+    padding-top: 20px;
+}
+table>tbody>tr>td {
+    /* white-space: nowrap; */
+}
+footer{
+    height: 40px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
